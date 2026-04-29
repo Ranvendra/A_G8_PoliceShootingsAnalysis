@@ -10,3 +10,6 @@ Ranvendra Pratap Singh - https://ranvendra-dva-portfolio.vercel.app/
 
 
 Harshita Maheshwari = https://dva-portfolio-topaz.vercel.app
+
+
+Aryan Bhargava = https://aryanbhargava18.github.io/dva_portfolio/
