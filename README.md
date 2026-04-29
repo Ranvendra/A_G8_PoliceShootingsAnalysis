@@ -121,12 +121,12 @@ R4. Better Data Standardization
 
 Improve reporting consistency across states and departments.
 
-## Member  Contribution
-Adithya & Ranvendra,"ETL, Data Engineering & Cleaning Pipeline "
-Ranvendra & Ankit,Exploratory Data Analysis (EDA) 
-Harshita & Vriha,Statistical Analysis & Regression Outputs 
-Aryan & Chinmay,KPI Design & Final Data Loading 
-Chinmay & Harshita,Tableau Dashboarding & Project Reporting 
+## Team Member,Primary Contribution Area,Key Deliverables
+Adithya & Ranvendra,ETL / Data Engineering,"01_extraction.py, 02_cleaning.py, raw-to-clean pipeline "
+Ranvendra & Ankit,Exploratory Data Analysis (EDA),"03_eda.py, exploratory charts and visual summaries "
+Harshita & Vriha,Statistical Analysis,"04_statistical_analysis.py, regression and group comparison outputs "
+Aryan & Chinmay,KPI Design & Final Load,"05_Final_Load.py, KPI column definitions, final_data.csv "
+Chinmay & Harshita,Dashboarding & Reporting,"Tableau dashboard, final project report "
 
  Key Learnings
 
