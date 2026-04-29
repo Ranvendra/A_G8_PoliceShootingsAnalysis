@@ -27,7 +27,8 @@ Despite increasing public awareness and reforms, there is limited clarity on:
 
 This project aims to answer these questions using data-driven insights.
 
-![Dashboard Walkthrough](dashboard_image)
+<img width="1289" height="795" alt="image" src="https://github.com/user-attachments/assets/09194d3d-49ae-41bd-abab-9d090820c6ec" />
+
 
 
 ## Tech Stack
